@@ -1,5 +1,4 @@
 # Amazon Review Sentiment Analyzer
-## Project Description
 This project is a GUI-based Amazon Review Sentiment Analyzer built using Tkinter, BeautifulSoup, and VADER Sentiment Analysis. 
 It allows users to enter an Amazon product URL, scrape customer reviews, and analyze their sentiment (Positive, Negative, or Neutral).
 
