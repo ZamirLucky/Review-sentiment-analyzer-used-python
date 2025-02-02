@@ -25,6 +25,6 @@ This tool is useful for anyone looking to quickly assess public opinion about a 
 5. VADER Sentiment Analysis (Pre-trained sentiment model)
 
 ## Setup and Installation 
-1. Clone
+1. Clone https://github.com/ZamirLucky/Review-sentiment-analyzer-used-python.git
 2. Make sure you have PyCharm installed on your machine.
 3. Ensure you have Python configured as the interpreter in PyCharm for the project
